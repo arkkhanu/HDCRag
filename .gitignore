@@ -1,0 +1,11 @@
+
+# Ignore virtual environments
+simply_rag/
+
+
+# Ignore Environment files
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
