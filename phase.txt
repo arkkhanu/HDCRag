@@ -1,5 +1,3 @@
-# HDCRag
-
 PHASE 1
 Environment
 ├── Python

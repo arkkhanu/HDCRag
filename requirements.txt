@@ -1,4 +1,5 @@
-
+#Purpose: Load variables from your .env file into Python
+python-dotenv
 
 langchain
 langchain-core
@@ -9,3 +10,13 @@ langchain-groq
 langchain-text-splitters
 
 
+# Vector Stores
+faiss-cpu
+
+# notebook
+jupyter
+ipykernel
+
+# web app
+
+streamlit
